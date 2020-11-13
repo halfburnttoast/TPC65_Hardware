@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 65xx)(type Legacy)(uri ${KIPRJMOD}/chip/65xx.lib)(options "")(descr ""))
+  (lib (name um61256a)(type Legacy)(uri ${KIPRJMOD}/chip/um61256a.lib)(options "")(descr ""))
+  (lib (name hoot)(type Legacy)(uri ${KIPRJMOD}/hoot.lib)(options "")(descr ""))
+)
